@@ -1,4 +1,4 @@
-# GA-Net: Guided Aggregation Net for End-to-end Stereo Matching(2019)
+### GA-Net: Guided Aggregation Net for End-to-end Stereo Matching(2019)
 + End-End 视觉匹配算法的基本流程：
     + Feature Extraction：使用多层CNN进行特征提取（沙漏结构）
     + Match Cost Aggregation：
@@ -18,3 +18,7 @@
 + 数据集：
     + Scene Flow
     + KITTI
+---
+下一步计划：
++ 阅读DispNet, GC-Net, PSMNet, SGM的相关论文
++ 学习立体匹配的基础知识
